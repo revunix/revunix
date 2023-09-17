@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align="center">
+  <br>
+  <br>
+  <h3 >Hey, I'm Alex</h3>
+  <samp>I am interested in technology</samp>
+  <br>
+  <br>
+</div>
 
-<!--
-**revunix/revunix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💬 Contact
+Ask me about anything, I am happy to help;  
 
-Here are some ideas to get you started:
+📫 How to **reach me** : admin@revunix.com  
+🌐 **Visit** my website : https://revunix.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+If you like what I do, feel free to buy me a coffee / help me keep running my services... ☕
+
+<a href='https://ko-fi.com/revunix' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
