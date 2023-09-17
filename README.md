@@ -10,7 +10,7 @@
 ### 💬 Contact
 Ask me about anything, I am happy to help;  
 
-📫 How to **reach me** : admin@revunix.com  
+📫 How to **reach me** : alex@revunix.com  
 🌐 **Visit** my website : https://revunix.com
 
 <br>
