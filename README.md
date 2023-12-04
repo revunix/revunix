@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <br>
-  <h3 >Hey, I'm Alex</h3>
+  <h3 >Hey, I'm Alexander</h3>
   <samp>I am interested in technology</samp>
   <br>
   <br>
